@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Screenshoot
+<p>Tampilan Depan</p>
+![Screenshot 2024-03-16 070208](https://github.com/ugunNet21/ProjectLaravel11_source/assets/45864165/9929b91f-35f6-45ef-893f-5e83b6b87322)
+
+<p>Tampilan Struktur folder</p>
+![Screenshot 2024-03-16 071118](https://github.com/ugunNet21/ProjectLaravel11_source/assets/45864165/d18baf63-f8e5-4d6b-bc5b-7734f4c90ff1)
 
 ## About Laravel
 
