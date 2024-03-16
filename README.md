@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<p>Blogspot</p>
+<a href="https://giatechindo.blogspot.com/2024/03/install-laravel-11.html"> Dokumentasi blog</a>
+
 ## Screenshoot
 
 <p>Tampilan Depan</p>
