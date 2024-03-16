@@ -15,7 +15,7 @@
 
 <p>Tampilan Struktur folder</p>
 
-![Screenshot 2024-03-16 071118](https://github.com/ugunNet21/ProjectLaravel11_source/assets/45864165/d18baf63-f8e5-4d6b-bc5b-7734f4c90ff1)
+![Screenshot 2024-03-16 071254](https://github.com/ugunNet21/ProjectLaravel11_source/assets/45864165/7e902104-018f-4bf0-bdb4-56f4fa0b336c)
 
 
 ## About Laravel
